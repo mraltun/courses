@@ -15,3 +15,7 @@ CSS Grids and Flexbox for Responsive Web Design by Jen Kramer -
 JavaScript: From Fundamentals to Functional JS, v2 by Bianca Gandolfo - 
 Website Accessibility, v2 by Jon Kuperman - 
 Introduction to Dev Tools, v3 by Jon Kuperman }
+
+JavaScript Simplified - PREMIUM PACKAGE by Kyle Cook {
+JavaScript Simplified - Beginner - JavaScript Simplified - Advanced
+}
