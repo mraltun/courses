@@ -19,3 +19,4 @@ Introduction to Dev Tools, v3 by Jon Kuperman }
 JavaScript Simplified - PREMIUM PACKAGE by Kyle Cook {
 JavaScript Simplified - Beginner - JavaScript Simplified - Advanced
 }
+
