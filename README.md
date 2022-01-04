@@ -20,6 +20,10 @@ JavaScript Simplified - PREMIUM PACKAGE by Kyle Cook {
 JavaScript Simplified - Beginner - JavaScript Simplified - Advanced
 }
 
+JavaScript: The Advanced Concepts by Andrei Neagoie
+
+
+
 
 You can't get good at MERN (or any Node.js centric stack) unless you're good at the native web stack. Getting good at both CSS and JavaScript are constantly evolving and are a lot to learn alone. And if you're going to use React, you gotta learn it's ins and outs, alongside React's (annoyingly growing) list of tooling, like Webpack. Then there's the (imo unnecessary) CSS frameworks...
 I think you should focus on applying for front-end roles once you've gotten good with HTML, CSS (esp Flexbox and Grid), JavaScript (give the DOM manipulation, Promises, async/await, Fetch, Storage, intersection observer APIs a lot of attention), and {insert JS framework of the day + it's necessary tooling here}.
