@@ -8,12 +8,12 @@ Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
 
 The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
 
-Beginner Learning Path (Frontend Masters) {
-Complete Intro to Web Development, v2 by Brian Holt - 
-Getting Started with JavaScript, v2 by Kyle Simpson - 
-CSS Grids and Flexbox for Responsive Web Design by Jen Kramer - 
-JavaScript: From Fundamentals to Functional JS, v2 by Bianca Gandolfo - 
-Website Accessibility, v2 by Jon Kuperman - 
+Beginner Learning Path (Frontend Masters) {<br>
+Complete Intro to Web Development, v2 by Brian Holt - <br>
+Getting Started with JavaScript, v2 by Kyle Simpson - <br>
+CSS Grids and Flexbox for Responsive Web Design by Jen Kramer - <br>
+JavaScript: From Fundamentals to Functional JS, v2 by Bianca Gandolfo - <br>
+Website Accessibility, v2 by Jon Kuperman - <br>
 Introduction to Dev Tools, v3 by Jon Kuperman }
 
 JavaScript Simplified - PREMIUM PACKAGE by Kyle Cook {
