@@ -22,7 +22,14 @@ JavaScript Simplified - Beginner - JavaScript Simplified - Advanced
 
 JavaScript: The Advanced Concepts by Andrei Neagoie
 
+React Learning Path (Frontend Masters) {<br>
+Complete Intro to React, v7 by Brian Holt - <br>
+Intermediate React, v4  by Brian Holt - <br>
+State Management in Pure React, v2  by  Steve Kinney - <br>
+
+}
+
 React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller
 
-
+Udemy - React Front To Back 2022 by Brad Traversy
 
