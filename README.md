@@ -33,3 +33,4 @@ React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwa
 
 Udemy - React Front To Back 2022 by Brad Traversy
 
+Build Web Apps with React & Firebase - The Net Ninja (Shaun Pelling)
