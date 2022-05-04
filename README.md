@@ -6,6 +6,8 @@ The Complete 2021 Web Development Bootcamp by Angela Yu
 
 Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
 
+Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmedtmann
+
 The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
 
 Beginner Learning Path (Frontend Masters) {<br>
